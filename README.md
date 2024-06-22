@@ -1,16 +1,18 @@
 # VideoGame_DataAnalysis_With_AmazonQuicksight
 Video Game sales data analysis using Amazon QuickSight, an AWS tool.
 
-_Amazon QuickSight is a cloud-scale business intelligence service that provides easy-to-understand insights to your team, wherever they are, by connecting and combining data from various cloud sources._
-_The dataset used for this dashboard weas sourced from [Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales), an online community and platform for data science and machine learning enthusiasts._
+Amazon QuickSight is a cloud-scale business intelligence service that provides easy-to-understand insights to your team, wherever they are, by connecting and combining data from various cloud sources.
+
+The dataset used for this dashboard weas sourced from [Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales), an online community and platform for data science and machine learning enthusiasts.
 
 
-Below is the process and end result of using a dataset to establish a custom dashboard with QuickSight to visualize the data with deisred parameters.
+<br><br>
 
-**Dataset --------------> S3 <--------------> QuickSight**
+_Below is the process and end result of using a dataset to establish a custom dashboard with QuickSight to visualize the data with deisred parameters:_
+
+#### Dataset --------------> S3 <--------------> QuickSight
 
 <br>
-
 
 
 
@@ -30,7 +32,7 @@ Below is the process and end result of using a dataset to establish a custom das
 
 **Final Dashboard**
 <div align=center margin= auto> 
-  <img src="images/vgsales_quicksight_dashboard_.png"  width=80%>
+  <img src="images/vgsales_quicksight_dashboard.png"  width=80%>
 </div>
 
 <br><br>
