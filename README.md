@@ -1,5 +1,5 @@
 # VideoGame_DataAnalysis_With_AmazonQuicksight
-.Amazon QuickSight is an AWS business intelligence service that provides easy-to-understand insights by connecting and combining data from various cloud sources.
+Amazon QuickSight is an AWS business intelligence service that provides easy-to-understand insights by connecting and combining data from various cloud sources.
 
 The dataset used for this dashboard was sourced from [Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales), an online community and platform for data science and machine learning enthusiasts.
 
