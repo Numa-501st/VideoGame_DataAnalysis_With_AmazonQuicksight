@@ -1,0 +1,16 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "s3://501st-quicksight-project/vgsales.csv"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "textqualifier": "\"",
+        "containsHeader": "true"
+    }
+}
+                            
